@@ -1,5 +1,5 @@
-# multi-threaded-server-client-setup-in-c
-This project is a folding at home model I wrote up independently for a final project at university. 
+# S2DCS
+ A lightweight distributed compute server-client application.
 
 
 
